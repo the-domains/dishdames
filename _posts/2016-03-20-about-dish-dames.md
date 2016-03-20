@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hello! We are Dish Dames:\_Jessica Noble and Amanda Doublin.\_"
-datePublished: '2016-03-20T22:34:04.951Z'
-dateModified: '2016-03-20T22:32:44.634Z'
+datePublished: '2016-03-20T22:48:04.232Z'
+dateModified: '2016-03-20T22:34:16.668Z'
 title: About Dish Dames
 author: []
 sourcePath: _posts/2016-03-20-about-dish-dames.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # About Dish Dames
 
-Hello! We are Dish Dames: Jessica Noble and Amanda Doublin. 
+We are Dish Dames: Jessica Noble and Amanda Doublin. 
 
 We became acquainted within the wedding industry and after many shared cups of coffee and treasured adventures we are dear friends, soul sisters and business partners. We are also kindred dish enthusiasts, moms, and caffeine celebrators with some pretty amazing dance moves. With many years of wedding experience to share and a deep desire to make things awesomely beautiful Dish Dames is our baby.
 

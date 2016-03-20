@@ -1,7 +1,7 @@
 name: DISH DAMES
 favicon: null
 layout_spectrum: 0.9789799442514777
-typography_spectrum: 0.9192181180696934
+typography_spectrum: 0.17614
 title: Dish Dames
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5302838340867311
-  lightness: 0.08296737563796341
-  saturation: 0.9514150922186673
-  rhythmicContrast: 0.7784724147059023
+    - '#ffffff'
+    - '#452c4a'
+    - '#685c50'
+    - '#cf8c72'
+    - '#e0c5ba'
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []

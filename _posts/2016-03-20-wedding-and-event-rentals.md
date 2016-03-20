@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T22:47:42.599Z'
-dateModified: '2016-03-20T22:47:25.618Z'
+datePublished: '2016-03-20T22:48:46.137Z'
+dateModified: '2016-03-20T22:47:48.557Z'
 title: 'Wedding & Event Rentals'
 author: []
+sourcePath: _posts/2016-03-20-wedding-and-event-rentals.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-wedding-and-event-rentals.md
-published: true
 url: wedding-and-event-rentals/index.html
 _type: Article
 

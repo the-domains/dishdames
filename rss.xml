@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DISH DAMES]]></title>
-        <description><![CDATA[DISH DAMES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Dish Dames]]></title>
+        <description><![CDATA[Dish Dames]]></description>
+        <link>https://thegrid.ai/dishdames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:17:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 22:19:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dishdames/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ced377c2-1586-460f-8d5d-5bf74fc0141b.jpg">]]></description>
-            <link>undefined90134c0a-4029-4f0b-bc53-9f257275d6ff/index.html</link>
+            <link>https://thegrid.ai/dishdames/90134c0a-4029-4f0b-bc53-9f257275d6ff/index.html</link>
             <guid isPermaLink="false">90134c0a-4029-4f0b-bc53-9f257275d6ff</guid>
-            <pubDate>Sun, 20 Mar 2016 22:16:56 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 22:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-20T22:48:46.137Z'
-dateModified: '2016-03-20T22:47:48.557Z'
-title: 'Wedding & Event Rentals'
+description: Handcrafted Farmhouse Tables  Seats 6-8  27 Available please inquire for pricing
+datePublished: '2016-03-20T22:53:05.463Z'
+dateModified: '2016-03-20T22:52:48.285Z'
+title: 'WEDDING & EVENT RENTALS'
 author: []
 sourcePath: _posts/2016-03-20-wedding-and-event-rentals.md
 published: true

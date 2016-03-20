@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Handcrafted Farmhouse Tables  Seats 6-8  27 Available please inquire for pricing
-datePublished: '2016-03-20T22:53:05.463Z'
-dateModified: '2016-03-20T22:52:48.285Z'
+datePublished: '2016-03-20T23:02:03.954Z'
+dateModified: '2016-03-20T23:02:01.837Z'
 title: 'WEDDING & EVENT RENTALS'
 author: []
 sourcePath: _posts/2016-03-20-wedding-and-event-rentals.md
@@ -24,7 +24,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3a40ccb-211a-486e-bf38-d4fefa1aaa24.jpg)
 
-Handcrafted Farmhouse Tables   
-Seats 6-8   
+Handcrafted Farmhouse Tables Seats 6-8   
 27 Available   
 _please inquire for pricing_

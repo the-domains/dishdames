@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "We are Dish Dames:\_Jessica Noble and Amanda Doublin.\_"
-datePublished: '2016-03-20T22:48:42.626Z'
-dateModified: '2016-03-20T22:48:10.729Z'
+datePublished: '2016-03-20T22:52:52.924Z'
+dateModified: '2016-03-20T22:52:27.056Z'
 title: About Dish Dames
 author: []
 sourcePath: _posts/2016-03-20-about-dish-dames.md
